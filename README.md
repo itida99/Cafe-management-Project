@@ -969,4 +969,11 @@ fin.close();
 
 ![11](https://user-images.githubusercontent.com/40766774/59036187-6e5e8d00-888c-11e9-8fba-ea2611a9d51f.PNG)
 
- 
+* Class Bill
+
+![12](https://user-images.githubusercontent.com/40766774/59037692-68b67680-888f-11e9-9d5d-e67bdb78dd8e.PNG)
+
+![13](https://user-images.githubusercontent.com/40766774/59037700-6eac5780-888f-11e9-89dd-5fd1690e514b.PNG)
+
+![14](https://user-images.githubusercontent.com/40766774/59037710-71a74800-888f-11e9-862f-755289781d70.PNG)
+
