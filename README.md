@@ -28,12 +28,17 @@ Functions used: getch( ) , getche( ) ,clrscr()
 
 Functions used: gets( ), rename( ), remove( ).
 
-3.	#include<process.h> Function used: exit( ).
+3.	#include<process.h> 
+
+Function used: exit( ).
+
 4.	#include<fstream.h>
 
 Functions used: open( ), close( ), seekp( ).
 
-5.	#include<string.h> Functions used: strcpy( ).
+5.	#include<string.h>
+
+Functions used: strcpy( ).
 
  
 ## Classes and Objects
